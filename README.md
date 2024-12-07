@@ -1,5 +1,5 @@
 # Todo-List-Apss
 
-Basic JavaScript, CSS, and HTM
+JavaScript, CSS, and HTML
 
 Link Demo : https://fmn-codes.github.io/Todo-List-Apps/
