@@ -17,4 +17,4 @@ A simple and interactive web application for managing tasks, built using HTML, C
 - **JavaScript** : Functionality and interactivity.
 - **LocalStorage** : Persistent taks storage in the browser.
 
-Link Demo : https://fmn-codes.github.io/Todo-List-Apps/
+Link Demo : https://codehanz.github.io/Todo-List-Apps/
